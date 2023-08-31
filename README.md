@@ -1,3 +1,5 @@
+# Yearbook data formatter
+
 This is documentation on how to use the Yearbook Data Formatter. This application is compatible with Windows Operating Systems ONLY. 
 Follow the steps carefully to ensure that no problems occur during execution of the app. 
 
